@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\백준">
+      <UniqueIdentifier>{36183b75-2d6f-4cf0-82cd-54cef11dbbd1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\코드업">
+      <UniqueIdentifier>{f03c8f7b-0f3a-4620-9bb6-6caac24dff50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\알고리즘">
+      <UniqueIdentifier>{d57295db-5af7-4162-bf32-eaab1466a474}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\알고리즘\1. 수학">
+      <UniqueIdentifier>{d7ba1a68-20e4-4290-ab9c-c85faec61339}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\알고리즘\7. 그리디">
+      <UniqueIdentifier>{6cf1cbbe-5762-43b7-8305-7e20552f813d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="2839(설탕배달).cpp">
+      <Filter>소스 파일\백준\알고리즘\7. 그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="11399(ATM).cpp">
+      <Filter>소스 파일\백준\알고리즘\7. 그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="11047(동전0).cpp">
+      <Filter>소스 파일\백준\알고리즘\7. 그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="1931(회의실배정) - 보류.cpp">
+      <Filter>소스 파일\백준\알고리즘\7. 그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="1931(회의실배정) - 인터넷.cpp">
+      <Filter>소스 파일\백준\알고리즘\7. 그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="5585(거스름돈).cpp">
+      <Filter>소스 파일\백준\알고리즘\7. 그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="2217(로프).cpp">
+      <Filter>소스 파일\백준\알고리즘\7. 그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="1541(잃어버린괄호) - 인터넷.cpp">
+      <Filter>소스 파일\백준\알고리즘\7. 그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="1541(잃어버린괄호).cpp">
+      <Filter>소스 파일\백준\알고리즘\7. 그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="1946(신입사원) - for문(보류).cpp">
+      <Filter>소스 파일\백준\알고리즘\7. 그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="1946(신입사원) - while문(보류).cpp">
+      <Filter>소스 파일\백준\알고리즘\7. 그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="1946(신입사원) - 인터넷풀이.cpp">
+      <Filter>소스 파일\백준\알고리즘\7. 그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="1339(단어수학) - 다시(보류).cpp">
+      <Filter>소스 파일\백준\알고리즘\7. 그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="1339(단어수학) - 보류.cpp">
+      <Filter>소스 파일\백준\알고리즘\7. 그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="1339(단어수학) - 인터넷.cpp">
+      <Filter>소스 파일\백준\알고리즘\7. 그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="1080(행렬)- 보류.cpp">
+      <Filter>소스 파일\백준\알고리즘\7. 그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="1138(한줄로서기) - 인터넷.cpp">
+      <Filter>소스 파일\백준\알고리즘\7. 그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="4796(캠핑).cpp">
+      <Filter>소스 파일\백준\알고리즘\7. 그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="2001(최소대금).cpp">
+      <Filter>소스 파일\코드업</Filter>
+    </ClCompile>
+    <ClCompile Include="3120(리모컨) - 보류.cpp">
+      <Filter>소스 파일\코드업</Filter>
+    </ClCompile>
+    <ClCompile Include="3301(거스름돈).cpp">
+      <Filter>소스 파일\코드업</Filter>
+    </ClCompile>
+    <ClCompile Include="3321(최고의피자) - 재시도 요망.cpp">
+      <Filter>소스 파일\코드업</Filter>
+    </ClCompile>
+    <ClCompile Include="4040(펜션) - 내꺼 보류.cpp">
+      <Filter>소스 파일\코드업</Filter>
+    </ClCompile>
+    <ClCompile Include="4040(펜션) - 인터넷 다시 공부하기.cpp">
+      <Filter>소스 파일\코드업</Filter>
+    </ClCompile>
+    <ClCompile Include="4684(자물쇠) - 내꺼 보류.cpp">
+      <Filter>소스 파일\코드업</Filter>
+    </ClCompile>
+    <ClCompile Include="4713(공주님의 정원) - 보류.cpp">
+      <Filter>소스 파일\코드업</Filter>
+    </ClCompile>
+    <ClCompile Include="1783(병든나이트).cpp">
+      <Filter>소스 파일\백준\알고리즘\7. 그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="13305(주유소) - 인터넷.cpp">
+      <Filter>소스 파일\백준\알고리즘\7. 그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="13305%28주유소%29 - 틀림.cpp">
+      <Filter>소스 파일\백준\알고리즘\7. 그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="1001(A-B).cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="10998(AxB).cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="10869(사칙연산).cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="10430(나머지).cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="2753(윤년).cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="2588(곱셉).cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="2577(숫자의개수).cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="2577(숫자의개수) - 인터넷.cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="2558(A+B-2).cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="1546(평균).cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="11022(A+B-8).cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="4344(평균은넘겠지).cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="10039(평균점수).cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="10250(ACM호텔).cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="2609(최대공약수와최소공배수).cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="2747(피보나치수).cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="2775%28부녀회장이 될테야%29 - 인터넷.cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="9461(파도반수열).cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="10953(A+B-6).cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="1934(최소공배수).cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="2163(초콜릿자르기).cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
