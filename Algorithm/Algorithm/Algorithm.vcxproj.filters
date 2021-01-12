@@ -180,5 +180,41 @@
     <ClCompile Include="2163(초콜릿자르기).cpp">
       <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
     </ClCompile>
+    <ClCompile Include="1011%28FlymetotheAlphaCentauri%29 - 인터넷.cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="2455(지능형기차).cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="1476(날짜계산).cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="2475(검증수).cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="11050(이항계수1).cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="13458(시험감독).cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="3046(R2).cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="1037%28약수%29.cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="1094%28막대기%29 - 인터넷.cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="3053(택시기하학).cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="11653%28소인수분해%29.cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="1699%28제곱수의합%29 - 보류.cpp">
+      <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
