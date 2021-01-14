@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\백준\알고리즘\7. 그리디">
       <UniqueIdentifier>{6cf1cbbe-5762-43b7-8305-7e20552f813d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\백준\알고리즘\2 다이나믹 프로그래밍">
+      <UniqueIdentifier>{2104f823-726d-4f13-a680-2bacc9759d39}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2839(설탕배달).cpp">
@@ -215,6 +218,21 @@
     </ClCompile>
     <ClCompile Include="1699%28제곱수의합%29 - 보류.cpp">
       <Filter>소스 파일\백준\알고리즘\1. 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="1463%281로만들기%29 - 큐.cpp">
+      <Filter>소스 파일\백준\알고리즘\2 다이나믹 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="1463(1로만들기) - 인터넷.cpp">
+      <Filter>소스 파일\백준\알고리즘\2 다이나믹 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="9095(1,2,3더하기).cpp">
+      <Filter>소스 파일\백준\알고리즘\2 다이나믹 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="11726(2xn타일링).cpp">
+      <Filter>소스 파일\백준\알고리즘\2 다이나믹 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="1149(RGB거리).cpp">
+      <Filter>소스 파일\백준\알고리즘\2 다이나믹 프로그래밍</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
