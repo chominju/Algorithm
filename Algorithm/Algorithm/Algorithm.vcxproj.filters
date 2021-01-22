@@ -40,6 +40,9 @@
     <Filter Include="소스 파일\백준\알고리즘\32. 스택">
       <UniqueIdentifier>{979f8349-35c9-42c1-b2df-dadb4158e2ca}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\백준\알고리즘\5.자료 구조">
+      <UniqueIdentifier>{81621112-a653-4e70-9982-ab2bf7d3bc27}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2839(설탕배달).cpp">
@@ -248,6 +251,27 @@
     </ClCompile>
     <ClCompile Include="17298(오큰수).cpp">
       <Filter>소스 파일\백준\알고리즘\32. 스택</Filter>
+    </ClCompile>
+    <ClCompile Include="10845(큐).cpp">
+      <Filter>소스 파일\백준\알고리즘\5.자료 구조</Filter>
+    </ClCompile>
+    <ClCompile Include="1158(요세푸스문제).cpp">
+      <Filter>소스 파일\백준\알고리즘\5.자료 구조</Filter>
+    </ClCompile>
+    <ClCompile Include="10799(쇠막대기).cpp">
+      <Filter>소스 파일\백준\알고리즘\5.자료 구조</Filter>
+    </ClCompile>
+    <ClCompile Include="3190(뱀).cpp">
+      <Filter>소스 파일\백준\알고리즘\5.자료 구조</Filter>
+    </ClCompile>
+    <ClCompile Include="1406%28에디터%29 - 시간초과.cpp">
+      <Filter>소스 파일\백준\알고리즘\5.자료 구조</Filter>
+    </ClCompile>
+    <ClCompile Include="1406%28에디터%29 - 인터넷%28리스트%29.cpp">
+      <Filter>소스 파일\백준\알고리즘\5.자료 구조</Filter>
+    </ClCompile>
+    <ClCompile Include="1406(에디터) - 인터넷(스택).cpp">
+      <Filter>소스 파일\백준\알고리즘\5.자료 구조</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
