@@ -273,5 +273,62 @@
     <ClCompile Include="1406(에디터) - 인터넷(스택).cpp">
       <Filter>소스 파일\백준\알고리즘\5.자료 구조</Filter>
     </ClCompile>
+    <ClCompile Include="11721(열개씩끊어출력하기).cpp">
+      <Filter>소스 파일\백준\알고리즘\8. 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="11719(그대로출력하기2).cpp">
+      <Filter>소스 파일\백준\알고리즘\8. 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="1316(그룹단어체커).cpp">
+      <Filter>소스 파일\백준\알고리즘\8. 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="10808(알파벳개수).cpp">
+      <Filter>소스 파일\백준\알고리즘\8. 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="2743(단어길이재기).cpp">
+      <Filter>소스 파일\백준\알고리즘\8. 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="9251(LCS).cpp">
+      <Filter>소스 파일\백준\알고리즘\8. 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="9251(LCS) - 인터넷.cpp">
+      <Filter>소스 파일\백준\알고리즘\8. 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="2941(크로아티아알파벳).cpp">
+      <Filter>소스 파일\백준\알고리즘\8. 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="1100(하얀칸).cpp">
+      <Filter>소스 파일\백준\알고리즘\8. 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="10988(팰린드롬인지확인하기).cpp">
+      <Filter>소스 파일\백준\알고리즘\8. 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="2902(KMP는왜KMP일까).cpp">
+      <Filter>소스 파일\백준\알고리즘\8. 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="1032(명령프롬프트).cpp">
+      <Filter>소스 파일\백준\알고리즘\8. 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="1764(듣보잡).cpp">
+      <Filter>소스 파일\백준\알고리즘\8. 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="10610%2830%29 - 실패.cpp">
+      <Filter>소스 파일\백준\알고리즘\8. 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="10610(30).cpp">
+      <Filter>소스 파일\백준\알고리즘\8. 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="10798(세로읽기).cpp">
+      <Filter>소스 파일\백준\알고리즘\8. 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="11656(접미사배열).cpp">
+      <Filter>소스 파일\백준\알고리즘\8. 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="11655(ROT13).cpp">
+      <Filter>소스 파일\백준\알고리즘\8. 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="1120(문자열).cpp">
+      <Filter>소스 파일\백준\알고리즘\8. 문자열</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
