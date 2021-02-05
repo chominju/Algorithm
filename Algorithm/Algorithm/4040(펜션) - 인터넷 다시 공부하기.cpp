@@ -6,7 +6,7 @@ int n, m;
 int begin_day;
 int end_day;
 
-char arr[101][31];
+char ve[101][31];
 
 int greedy(int index)
 {
@@ -16,7 +16,7 @@ int greedy(int index)
 		int day = 0;
 		for (int j = index; j < end_day - 1; j++)
 		{
-			if (arr[j][i] == 'O')
+			if (ve[j][i] == 'O')
 				day++;
 			else
 				break;
@@ -35,7 +35,7 @@ int main()
 
 	for (int i = 0; i < n; i++)
 		for (int j = 0; j < m; j++)
-			cin >> arr[i][j];
+			cin >> ve[i][j];
 
 	cin >> begin_day >> end_day;
 

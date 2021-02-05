@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int arr[102][102]; // 사과가 있는 바둑판
+int ve[102][102]; // 사과가 있는 바둑판
 
 int s[101]; // 시간
 char d[101]; // 방향
@@ -20,7 +20,7 @@ int main()
 	{
 		int x, y;
 		cin >> x >> y;
-		arr[x][y] = 1;
+		ve[x][y] = 1;
 	}
 
 	int l;
@@ -66,9 +66,9 @@ int main()
 			}
 		}
 
-		if (arr[xy.first][xy.second] == 1) // 사과발견!
+		if (ve[xy.first][xy.second] == 1) // 사과발견!
 		{
-			arr[xy.first][xy.second] = 0;
+			ve[xy.first][xy.second] = 0;
 			len++;
 			qu.push(xy);
 		}
